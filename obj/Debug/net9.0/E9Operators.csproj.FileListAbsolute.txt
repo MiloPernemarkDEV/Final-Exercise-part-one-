@@ -1,0 +1,14 @@
+C:\Users\milos\ForsbergsPR\E9Operators\bin\Debug\net9.0\E9Operators.exe
+C:\Users\milos\ForsbergsPR\E9Operators\bin\Debug\net9.0\E9Operators.deps.json
+C:\Users\milos\ForsbergsPR\E9Operators\bin\Debug\net9.0\E9Operators.runtimeconfig.json
+C:\Users\milos\ForsbergsPR\E9Operators\bin\Debug\net9.0\E9Operators.dll
+C:\Users\milos\ForsbergsPR\E9Operators\bin\Debug\net9.0\E9Operators.pdb
+C:\Users\milos\ForsbergsPR\E9Operators\obj\Debug\net9.0\E9Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milos\ForsbergsPR\E9Operators\obj\Debug\net9.0\E9Operators.AssemblyInfoInputs.cache
+C:\Users\milos\ForsbergsPR\E9Operators\obj\Debug\net9.0\E9Operators.AssemblyInfo.cs
+C:\Users\milos\ForsbergsPR\E9Operators\obj\Debug\net9.0\E9Operators.csproj.CoreCompileInputs.cache
+C:\Users\milos\ForsbergsPR\E9Operators\obj\Debug\net9.0\E9Operators.dll
+C:\Users\milos\ForsbergsPR\E9Operators\obj\Debug\net9.0\refint\E9Operators.dll
+C:\Users\milos\ForsbergsPR\E9Operators\obj\Debug\net9.0\E9Operators.pdb
+C:\Users\milos\ForsbergsPR\E9Operators\obj\Debug\net9.0\E9Operators.genruntimeconfig.cache
+C:\Users\milos\ForsbergsPR\E9Operators\obj\Debug\net9.0\ref\E9Operators.dll
